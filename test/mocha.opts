@@ -1,0 +1,3 @@
+--watch-extensions ts
+--compilers ts:ts-node/register
+test/*.ts
